@@ -1,4 +1,6 @@
-
+---
+permalink: /
+---
 <h1>Evaluating the Perception of Realistic and Stylized Digital Doubles</h1>
 # **Documentation**
 > How this project works and how to maintain your own
