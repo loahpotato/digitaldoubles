@@ -1,8 +1,8 @@
 ---
 permalink: /
 ---
-<h1>Evaluating the Perception of Realistic and Stylized Digital Doubles</h1>
-# **Documentation**
+# **Evaluating the Perception of Realistic and Stylized Digital Doubles**
+## Siyi Liu
 > How this project works and how to maintain your own
 
 <div align="center">
